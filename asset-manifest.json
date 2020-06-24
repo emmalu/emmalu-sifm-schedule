@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sifm-schedule/static/css/main.6913b6da.chunk.css",
+    "main.js": "/sifm-schedule/static/js/main.af9652e3.chunk.js",
+    "main.js.map": "/sifm-schedule/static/js/main.af9652e3.chunk.js.map",
+    "runtime-main.js": "/sifm-schedule/static/js/runtime-main.b399818b.js",
+    "runtime-main.js.map": "/sifm-schedule/static/js/runtime-main.b399818b.js.map",
+    "static/js/2.0c2276c4.chunk.js": "/sifm-schedule/static/js/2.0c2276c4.chunk.js",
+    "static/js/2.0c2276c4.chunk.js.map": "/sifm-schedule/static/js/2.0c2276c4.chunk.js.map",
+    "index.html": "/sifm-schedule/index.html",
+    "precache-manifest.55b9a41f8e556d918be8c8b49ca37e6f.js": "/sifm-schedule/precache-manifest.55b9a41f8e556d918be8c8b49ca37e6f.js",
+    "service-worker.js": "/sifm-schedule/service-worker.js",
+    "static/css/main.6913b6da.chunk.css.map": "/sifm-schedule/static/css/main.6913b6da.chunk.css.map",
+    "static/js/2.0c2276c4.chunk.js.LICENSE.txt": "/sifm-schedule/static/js/2.0c2276c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b399818b.js",
+    "static/js/2.0c2276c4.chunk.js",
+    "static/css/main.6913b6da.chunk.css",
+    "static/js/main.af9652e3.chunk.js"
+  ]
+}
