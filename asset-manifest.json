@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sifm-schedule/static/css/main.6913b6da.chunk.css",
-    "main.js": "/sifm-schedule/static/js/main.1eacca76.chunk.js",
-    "main.js.map": "/sifm-schedule/static/js/main.1eacca76.chunk.js.map",
+    "main.js": "/sifm-schedule/static/js/main.7fd6e088.chunk.js",
+    "main.js.map": "/sifm-schedule/static/js/main.7fd6e088.chunk.js.map",
     "runtime-main.js": "/sifm-schedule/static/js/runtime-main.b399818b.js",
     "runtime-main.js.map": "/sifm-schedule/static/js/runtime-main.b399818b.js.map",
     "static/js/2.d721b1ee.chunk.js": "/sifm-schedule/static/js/2.d721b1ee.chunk.js",
     "static/js/2.d721b1ee.chunk.js.map": "/sifm-schedule/static/js/2.d721b1ee.chunk.js.map",
     "index.html": "/sifm-schedule/index.html",
-    "precache-manifest.011f8228d06d62dd5ff8fa5af58be872.js": "/sifm-schedule/precache-manifest.011f8228d06d62dd5ff8fa5af58be872.js",
+    "precache-manifest.dc0722e9563e2d862ad11540477669d1.js": "/sifm-schedule/precache-manifest.dc0722e9563e2d862ad11540477669d1.js",
     "service-worker.js": "/sifm-schedule/service-worker.js",
     "static/css/main.6913b6da.chunk.css.map": "/sifm-schedule/static/css/main.6913b6da.chunk.css.map",
     "static/js/2.d721b1ee.chunk.js.LICENSE.txt": "/sifm-schedule/static/js/2.d721b1ee.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b399818b.js",
     "static/js/2.d721b1ee.chunk.js",
     "static/css/main.6913b6da.chunk.css",
-    "static/js/main.1eacca76.chunk.js"
+    "static/js/main.7fd6e088.chunk.js"
   ]
 }
